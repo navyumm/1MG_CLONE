@@ -19,8 +19,6 @@
 11.React-Redux 
 
 
-
-
  
 Completion Time of Project :- 5 Days
 Link of the Project :- https://tata1mg-clone-umber.vercel.app/ 
